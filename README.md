@@ -53,6 +53,8 @@ El bot tiene los siguientes comandos:
 ![Comando /addbot](https://i.gyazo.com/0a69e408e8773f097395e6bdde113827.jpg)
 
 
-## Licencia
+## Soporte y Contacto
 
-Este proyecto está licenciado bajo la MIT License.
+Si quieres contactar conmigo puedes hacerlo a través de Discord enviando una solicitúd de amistad. Mi usuario: paco_rguez 
+
+O entrando a mi comunidad discord: https://discord.gg/9KJgC6cVx3
